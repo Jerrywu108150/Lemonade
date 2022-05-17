@@ -25,3 +25,4 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+![2022-05-17 17-03-18](https://user-images.githubusercontent.com/75060025/168774126-64c684b6-0db0-4671-955a-4741a14bf667.gif)
